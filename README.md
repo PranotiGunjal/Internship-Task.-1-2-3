@@ -1,2 +1,2 @@
-#Internship Task1,2,3
+#Internship
 #codesoft #internship #java Development
